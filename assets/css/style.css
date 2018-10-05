@@ -867,6 +867,10 @@ Nav Menu style
     background-color: #1bc9ed;
     color:#fff;
 }
+.navbar-socail li a:hover.instagram-logo{
+    background-color: #f04419;
+    color:#fff;
+}
 .navbar-socail li a:hover.googleplus-logo{
     background-color: #e70a0a;
     color:#fff;
