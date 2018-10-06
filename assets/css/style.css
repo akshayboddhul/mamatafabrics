@@ -313,6 +313,14 @@ ul{
     list-style:none;
 }
 
+/*MAIN LOGO*/
+.img-logo{
+    margin-top: -14px;
+}
+/* .navbar-custom{
+    padding: 15px;
+} */
+
 /*all overlay*/
 
 .overlay {
