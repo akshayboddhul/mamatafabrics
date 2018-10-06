@@ -34,7 +34,7 @@ jQuery(document).ready(function ($) {
      ---------------------------------------------*/
 
     var wow = new WOW({
-        mobile: false // trigger animations on mobile devices (default is true)
+        mobile: true // trigger animations on mobile devices (default is true)
     });
     wow.init();
 
@@ -65,9 +65,9 @@ jQuery(document).ready(function ($) {
         autoplay: true,
         autoplaySpeed: 2000
     });
-    
-    
-    
+
+
+
     $(".business_items").slick({
         dots: true,
         infinite: false,
@@ -84,7 +84,7 @@ jQuery(document).ready(function ($) {
 
 
 //---------------------------------------------
-// Scroll Up 
+// Scroll Up
 //---------------------------------------------
 
     $('.scrollup').click(function () {
@@ -105,6 +105,3 @@ jQuery(document).ready(function ($) {
     //End
 
 });
-
-
-
