@@ -1114,12 +1114,13 @@ work Section style
     color:#fff;
 }
 .main_product .carousel-control.left{
-    left:-1.4%;
-    box-shadow: -1px 0px 0px 0px;
+    left:-5.4%;
+    /* box-shadow: -1px 0px 0px 0px; */
+
 }
 .main_product .carousel-control.right {
-    right:-1.4%;
-    box-shadow: 1px 0px 0px 0px;
+    right:-5.4%;
+    /* box-shadow: 1px 0px 0px 0px; */
 }
 
 .main_product .port_img{

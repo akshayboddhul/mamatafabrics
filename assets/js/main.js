@@ -4,7 +4,7 @@ jQuery(document).ready(function ($) {
 //for Preloader
 
     $(window).load(function () {
-        $("#loading").fadeOut(500);
+        $("#loading").fadeOut(10);
     });
 
 
@@ -79,7 +79,6 @@ jQuery(document).ready(function ($) {
         autoplay: true,
         autoplaySpeed: 2000
     });
-
 
 
 
