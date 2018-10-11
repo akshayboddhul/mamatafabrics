@@ -1281,12 +1281,12 @@ work Section style
     color:#fff;
 }
 
-.widget_latst_item_text p{
+.widget_latest_item_text p{
     margin-bottom: 0px;
     color:#aaaaaa;
 }
 .widget_service li i,
-.widget_latst_item_text a{
+.widget_latest_item_text a{
     font-size:12px;
     color:#aaaaaa;
 }
@@ -1299,21 +1299,21 @@ work Section style
     padding-bottom: 10px;
 }
 .widget_newsletter li a:hover i,
-.widget_latst_item_text:hover p,
+.widget_latest_item_text:hover p,
 .widget_service li:hover,
 .widget_service li:hover i{
     color:#fff;
 }
 
 .widget_ab_item .item_icon,
-.widget_latst_item .item_icon{
+.widget_latest_item .item_icon{
     float: left;
     width: 20%;
     display: inline-block;
     margin-right: 0;
 }
 .widget_ab_item .widget_ab_item_text,
-.widget_latst_item .widget_latst_item_text {
+.widget_latest_item .widget_latest_item_text {
     display: inline-block;
     width: 70%;
 }
@@ -1351,7 +1351,7 @@ work Section style
     font-size:40px;
     font-weight: 800;
     font-family: Old English Text MT;
-    color:#aaa;
+    color:#fff;
 }
 .widget_newsletter li a i{
     color:#aaa;
